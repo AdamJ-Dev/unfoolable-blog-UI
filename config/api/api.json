@@ -1,0 +1,10 @@
+{
+  "baseDevUrl": "http://localhost:3001",
+  "baseProdUrl": "https://unfoolable-blog-api.herokuapp.com",
+  "routes": {
+    "blogs": {
+      "findPublishedBlogs": "/blogs/public",
+      "findPublicBlog": "/blog/public/:path"
+    }
+  }
+}

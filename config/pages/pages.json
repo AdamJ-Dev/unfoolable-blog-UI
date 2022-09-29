@@ -1,0 +1,10 @@
+{
+  "home": {
+    "route":  "/"
+  },
+  "blog": {
+    "route": "/blog/:path",
+    "aboutPath": "about",
+    "aboutLinkText": "Learn more."
+  }
+}
