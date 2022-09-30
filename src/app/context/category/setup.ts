@@ -2,8 +2,8 @@ import { createContext, Dispatch } from 'react';
 import { CategoryAction } from './reducer';
 
 export type CategoryState = {
-  categories: string[];
   currentCategory: string | null;
+  categories: string[];
 };
 
 export type CategoryContext = CategoryState & {
