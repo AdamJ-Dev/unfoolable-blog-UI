@@ -6,3 +6,8 @@
   display: flex;
   justify-content: space-between;
 }
+
+.homeLink {
+  color: black;
+  text-decoration: underline;
+}
