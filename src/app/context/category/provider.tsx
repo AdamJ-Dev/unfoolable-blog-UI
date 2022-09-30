@@ -4,7 +4,6 @@ import categoryReducer from './reducer';
 
 type CategoryContextProviderProps = {
   children: React.ReactNode;
-  blogId: string;
 };
 
 const CategoryContextProvider: React.FC<CategoryContextProviderProps> = ({ children }) => {
