@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "adam does blog",
+    "home_page_url": "https://adamdoes.blog",
+    "description": "On *adam does blog*, Adam variously posts fiction, writing about fiction, as well as writing about philosophy, code, self-help, maths, and other miscellaneous topics.",
+    "author": {
+        "name": "adamdoes"
+    },
+    "items": [
+        {
+            "id": "https://adamdoes.blog/blog/fiction-test",
+            "url": "https://adamdoes.blog/blog/fiction-test",
+            "title": "Fiction Test",
+            "date_modified": "2022-09-30T13:37:10.433Z"
+        },
+        {
+            "id": "https://adamdoes.blog/blog/philosophy-test",
+            "url": "https://adamdoes.blog/blog/philosophy-test",
+            "title": "Philosophy Test",
+            "date_modified": "2022-09-30T13:36:01.640Z"
+        }
+    ]
+}

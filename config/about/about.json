@@ -1,5 +1,21 @@
 {
   "windowTitle": "adamdoesblog",
-  "homeTitle": "adam does blog",
-  "contact": {}
+  "blogTitle": "adam does blog",
+  "siteUrl": "https://adamdoes.blog",
+  "rss": {
+    "info": {
+      "author": {
+        "name": "adamdoes"
+      },
+      "description": "On *adam does blog*, Adam variously posts fiction, writing about fiction, as well as writing about philosophy, code, self-help, maths, and other miscellaneous topics.",
+      "feedPaths": {
+        "rss2": "/rss/feed.xml",
+        "json": "/rss/feed.json"
+      },
+      "copyright": "All rights reserved."
+    },
+    "path": "/rss/feed.xml",
+    "svgPath": "/svg/rss.svg",
+    "linkText": "Get notified."
+  }
 }

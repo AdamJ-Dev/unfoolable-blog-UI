@@ -1,3 +1,8 @@
 .blogHeader {
   margin-bottom: 20px;
 }
+
+.blogLinks {
+  display: flex;
+  justify-content: space-between;
+}
