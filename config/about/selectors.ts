@@ -16,12 +16,12 @@ export const getRssInfo = () => {
   return about.rss.info;
 };
 
-export const getRssPath = () => {
-  return about.rss.path;
+export const getRssRoute = () => {
+  return about.rss.route;
 };
 
 export const getRssIconLink = () => {
-  return about.rss.svgPath;
+  return about.rss.svgRoute;
 };
 
 export const getRssLinkText = () => {

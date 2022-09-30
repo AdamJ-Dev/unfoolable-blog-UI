@@ -14,8 +14,8 @@
       },
       "copyright": "All rights reserved."
     },
-    "path": "/rss/feed.xml",
-    "svgPath": "/svg/rss.svg",
+    "route": "/rss/feed.xml",
+    "svgRoute": "/svg/rss.svg",
     "linkText": "Get notified."
   }
 }
