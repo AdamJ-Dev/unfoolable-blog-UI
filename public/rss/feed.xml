@@ -4,21 +4,21 @@
         <title>adam does blog</title>
         <link>https://adamdoes.blog</link>
         <description>On *adam does blog*, Adam variously posts fiction, writing about fiction, as well as writing about philosophy, code, self-help, maths, and other miscellaneous topics.</description>
-        <lastBuildDate>Fri, 30 Sep 2022 17:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 10:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>All rights reserved.</copyright>
         <item>
-            <title><![CDATA[Fiction Test]]></title>
-            <link>https://adamdoes.blog/blog/fiction-test</link>
-            <guid>https://adamdoes.blog/blog/fiction-test</guid>
-            <pubDate>Fri, 30 Sep 2022 13:37:10 GMT</pubDate>
+            <title><![CDATA[Meditation]]></title>
+            <link>https://adamdoes.blog/blog/meditation</link>
+            <guid>https://adamdoes.blog/blog/meditation</guid>
+            <pubDate>Wed, 23 Nov 2022 21:35:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Philosophy Test]]></title>
-            <link>https://adamdoes.blog/blog/philosophy-test</link>
-            <guid>https://adamdoes.blog/blog/philosophy-test</guid>
-            <pubDate>Fri, 30 Sep 2022 13:36:01 GMT</pubDate>
+            <title><![CDATA[Funny TikTok ideas]]></title>
+            <link>https://adamdoes.blog/blog/funny-tiktok-ideas</link>
+            <guid>https://adamdoes.blog/blog/funny-tiktok-ideas</guid>
+            <pubDate>Sat, 19 Nov 2022 16:55:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
