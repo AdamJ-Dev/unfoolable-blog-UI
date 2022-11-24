@@ -33,7 +33,7 @@ const Home: React.FC<HomeProps> = ({ blogs, categories }) => {
                 {blog.title}
               </a>
             </h3>
-            <div>{getDateDisplay(blog.createdAt, blog.updatedAt)}</div>
+            <div>{getDateDisplay(blog.createdAt)}</div>
           </li>
         ))}
       </ul>
