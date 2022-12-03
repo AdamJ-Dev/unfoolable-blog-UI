@@ -13,7 +13,7 @@ const BlogPage: React.FC<BlogPageProps> = ({ blog }) => {
   return (
     <>
       <div className={styles.blogHeadline}>
-        <h1>Blog: {blog.title}</h1>
+        <h1>{blog.title}</h1>
         <div className={styles.blogSubline}>
           <span>
             <small>
@@ -22,9 +22,14 @@ const BlogPage: React.FC<BlogPageProps> = ({ blog }) => {
           </span>
           <span>
             <small>
-              Source:{' '}
-              <span className={linkStyles.link} onClick={() => download(blog.path, blog.body)}>
-                {blog.path}.txt
+              <span>
+                Tags: <span className={styles.blogTags}>{blog.tags.join(', ')}</span>
+              </span>
+              <span>
+                Source:{' '}
+                <span className={linkStyles.link} onClick={() => download(blog.path, blog.body)}>
+                  {blog.path}.txt
+                </span>
               </span>
             </small>
           </span>

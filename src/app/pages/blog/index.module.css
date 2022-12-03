@@ -8,3 +8,10 @@
   display: flex;
   justify-content: space-between;
 }
+
+.blogTags {
+  margin-right: 10px;
+  font-style: italic;
+  font-weight: bold;
+  
+}
