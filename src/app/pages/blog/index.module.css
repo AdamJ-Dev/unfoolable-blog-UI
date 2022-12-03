@@ -3,3 +3,8 @@
   padding-bottom: 10px;
   border-bottom: 1px solid silver;
 }
+
+.blogSubline {
+  display: flex;
+  justify-content: space-between;
+}
